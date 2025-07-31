@@ -1,2 +1,2 @@
 # LobbyUtils
-"LobbyUtils" is a complete rework of my previous mod "DisconnectMod" that I actually coded myself this time
+"LobbyUtils" is a complete rework of my previous mod "DisconnectMod", which I coded myself this time.
